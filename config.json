@@ -1,0 +1,12 @@
+{
+    "dbConfig": {
+        "host": "host",
+        "port": 1234,
+        "databse": "database",
+        "user": "user",
+        "password": "password"
+    },
+    "appConfig": {
+        "port": 3000
+    }
+}
